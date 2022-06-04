@@ -1,2 +1,2 @@
-const a = 100;
 const myfunction = () => {};
+const b = 'hey man!'
